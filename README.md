@@ -1,4 +1,4 @@
-## Video Object Segmentation using Space-Time Memory Networks
+## testGit
 ### Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
 ### ICCV 2019
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.html)
@@ -10,7 +10,7 @@
 ### - Requirements
 - python 3.6
 - pytorch 1.0.1.post2
-- numpy, opencv, pillow
+- 
 
 ### - How to Use
 #### Download weights
